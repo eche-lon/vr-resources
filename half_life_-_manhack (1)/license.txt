@@ -1,0 +1,11 @@
+Model Information:
+* title:	Half Life - Manhack
+* source:	https://sketchfab.com/3d-models/half-life-manhack-a155a33c95b0462f8a85791911b8bc6d
+* author:	Lovely (https://sketchfab.com/Zxfcgg)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Half Life - Manhack" (https://sketchfab.com/3d-models/half-life-manhack-a155a33c95b0462f8a85791911b8bc6d) by Lovely (https://sketchfab.com/Zxfcgg) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
