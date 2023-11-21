@@ -1,0 +1,11 @@
+Model Information:
+* title:	Free Barricade
+* source:	https://sketchfab.com/3d-models/free-barricade-b7b92195d90e40ca99eece53b0de6314
+* author:	JonhGillessen (https://sketchfab.com/JonhGillessen)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Free Barricade" (https://sketchfab.com/3d-models/free-barricade-b7b92195d90e40ca99eece53b0de6314) by JonhGillessen (https://sketchfab.com/JonhGillessen) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
