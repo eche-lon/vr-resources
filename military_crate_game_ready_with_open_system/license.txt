@@ -1,0 +1,11 @@
+Model Information:
+* title:	Military crate (game ready with open system)
+* source:	https://sketchfab.com/3d-models/military-crate-game-ready-with-open-system-819ffa35626044608f497dbb6e405afc
+* author:	Killian_Delias (https://sketchfab.com/Killian_Delias)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Military crate (game ready with open system)" (https://sketchfab.com/3d-models/military-crate-game-ready-with-open-system-819ffa35626044608f497dbb6e405afc) by Killian_Delias (https://sketchfab.com/Killian_Delias) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
