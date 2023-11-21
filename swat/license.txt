@@ -1,0 +1,11 @@
+Model Information:
+* title:	Swat
+* source:	https://sketchfab.com/3d-models/swat-d2dfab1a994347f0b7b4f8861fef260d
+* author:	WJ (https://sketchfab.com/wj_iLL)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Swat" (https://sketchfab.com/3d-models/swat-d2dfab1a994347f0b7b4f8861fef260d) by WJ (https://sketchfab.com/wj_iLL) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
