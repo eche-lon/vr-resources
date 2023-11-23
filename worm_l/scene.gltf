@@ -1,0 +1,407 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 4442,
+      "max": [
+        1.5550997257232666,
+        1.4213721752166748,
+        3.6045022010803223
+      ],
+      "min": [
+        -1.4588711261749268,
+        -1.334986925125122,
+        -3.0427298545837402
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 53304,
+      "componentType": 5126,
+      "count": 4442,
+      "max": [
+        0.9990531802177429,
+        0.9918428063392639,
+        0.9998990297317505
+      ],
+      "min": [
+        -0.999348521232605,
+        -0.9942883253097534,
+        -0.9998252987861633
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 4442,
+      "max": [
+        0.999909520149231,
+        0.9997294545173645,
+        0.9998754858970642,
+        1.0
+      ],
+      "min": [
+        -0.9998243451118469,
+        -0.9997444152832031,
+        -0.9989603757858276,
+        -1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 4442,
+      "max": [
+        0.9950644969940186,
+        0.9906747937202454
+      ],
+      "min": [
+        0.004931712988764048,
+        0.004932702518999577
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 13134,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 106608,
+      "componentType": 5126,
+      "count": 3080,
+      "max": [
+        1.839428424835205,
+        3.624040126800537,
+        2.609219551086426
+      ],
+      "min": [
+        -12.357166290283203,
+        -11.975181579589844,
+        -7.243096351623535
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 143568,
+      "componentType": 5126,
+      "count": 3080,
+      "max": [
+        0.9999810457229614,
+        0.9999836683273315,
+        0.9991816282272339
+      ],
+      "min": [
+        -0.9999819993972778,
+        -0.9999192953109741,
+        -0.9983931183815002
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 71072,
+      "componentType": 5126,
+      "count": 3080,
+      "max": [
+        0.9893102645874023,
+        0.9949044585227966,
+        0.9999815821647644,
+        1.0
+      ],
+      "min": [
+        -0.9987958669662476,
+        -0.9997566938400269,
+        -0.9928409457206726,
+        -1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 35536,
+      "componentType": 5126,
+      "count": 3080,
+      "max": [
+        0.9557701945304871,
+        0.964357316493988
+      ],
+      "min": [
+        0.004932308103889227,
+        0.004931933246552944
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 52536,
+      "componentType": 5125,
+      "count": 16044,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "thimbrovsky (https://sketchfab.com/thimbrovsky)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/worm-l-f9ab501593594f71a9c1371090ea9a14",
+      "title": "Worm L"
+    },
+    "generator": "Sketchfab-12.64.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 116712,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 60176,
+      "byteOffset": 116712,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 180528,
+      "byteOffset": 176888,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 120352,
+      "byteOffset": 357416,
+      "byteStride": 16,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 477768,
+      "uri": "scene.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "textures/Scene_-_Root_baseColor.png"
+    },
+    {
+      "uri": "textures/Scene_-_Root_metallicRoughness.png"
+    },
+    {
+      "uri": "textures/Scene_-_Root_normal.png"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "Scene_-_Root",
+      "normalTexture": {
+        "index": 2
+      },
+      "occlusionTexture": {
+        "index": 1
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicRoughnessTexture": {
+          "index": 1
+        }
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "worm_l__0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TANGENT": 2,
+            "TEXCOORD_0": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Teeth__0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 6,
+            "POSITION": 5,
+            "TANGENT": 7,
+            "TEXCOORD_0": 8
+          },
+          "indices": 9,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        2.220446049250313e-16,
+        -3.828568672208042e-16,
+        1.0,
+        0.0,
+        -1.0,
+        -2.8327693431939995e-16,
+        2.2204460492503123e-16,
+        0.0,
+        2.832769343193999e-16,
+        -1.0,
+        -3.828568672208042e-16,
+        0.0,
+        -166.44593811035156,
+        -285.96359252929693,
+        166.4459381103515,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        -1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        -1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "a97991f3245b47e28981ae728113d4f9.fbx"
+    },
+    {
+      "children": [
+        3,
+        5
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        4
+      ],
+      "matrix": [
+        -1.629206793918314e-05,
+        99.99999999999868,
+        0.0,
+        0.0,
+        -99.99999999999868,
+        -1.629206793918314e-05,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        100.0,
+        0.0,
+        -81.4237289428711,
+        75.89169311523438,
+        109.96023559570313,
+        1.0
+      ],
+      "name": "worm_l"
+    },
+    {
+      "mesh": 0,
+      "name": "worm_l__0"
+    },
+    {
+      "children": [
+        6
+      ],
+      "matrix": [
+        -1.040354951662461,
+        4.988926036847745,
+        0.6542199878013448,
+        0.0,
+        -4.669594219371183,
+        -1.2061294737701893,
+        1.7719655295465513,
+        0.0,
+        1.874105806178912,
+        -0.23578303665655076,
+        4.7782694572299125,
+        0.0,
+        -108.00978088378906,
+        124.47650146484375,
+        464.4477233886719,
+        1.0
+      ],
+      "name": "Teeth"
+    },
+    {
+      "mesh": 1,
+      "name": "Teeth__0"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    },
+    {
+      "sampler": 0,
+      "source": 2
+    }
+  ]
+}

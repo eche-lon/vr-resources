@@ -1,0 +1,11 @@
+Model Information:
+* title:	Worm L
+* source:	https://sketchfab.com/3d-models/worm-l-f9ab501593594f71a9c1371090ea9a14
+* author:	thimbrovsky (https://sketchfab.com/thimbrovsky)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Worm L" (https://sketchfab.com/3d-models/worm-l-f9ab501593594f71a9c1371090ea9a14) by thimbrovsky (https://sketchfab.com/thimbrovsky) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
