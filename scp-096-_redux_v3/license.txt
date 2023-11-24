@@ -1,0 +1,11 @@
+Model Information:
+* title:	SCP-096- Redux V3
+* source:	https://sketchfab.com/3d-models/scp-096-redux-v3-4d7267926fb94811a2c8f5c7286295bc
+* author:	sussybaka22i338383 (https://sketchfab.com/sussybaka22i338383)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "SCP-096- Redux V3" (https://sketchfab.com/3d-models/scp-096-redux-v3-4d7267926fb94811a2c8f5c7286295bc) by sussybaka22i338383 (https://sketchfab.com/sussybaka22i338383) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
