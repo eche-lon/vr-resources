@@ -1,0 +1,11 @@
+Model Information:
+* title:	Fortress Island
+* source:	https://sketchfab.com/3d-models/fortress-island-56878754ffb24489b769dd3348d4d92f
+* author:	Laetitia Irata (https://sketchfab.com/LaetitiaIrata)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Fortress Island" (https://sketchfab.com/3d-models/fortress-island-56878754ffb24489b769dd3348d4d92f) by Laetitia Irata (https://sketchfab.com/LaetitiaIrata) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
