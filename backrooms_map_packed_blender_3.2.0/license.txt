@@ -1,0 +1,11 @@
+Model Information:
+* title:	Backrooms Map Packed_Blender 3.2.0
+* source:	https://sketchfab.com/3d-models/backrooms-map-packed-blender-320-cccf027acc214c4e9370f1fefebda4bf
+* author:	ultramirage10 (https://sketchfab.com/ultramirage10)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Backrooms Map Packed_Blender 3.2.0" (https://sketchfab.com/3d-models/backrooms-map-packed-blender-320-cccf027acc214c4e9370f1fefebda4bf) by ultramirage10 (https://sketchfab.com/ultramirage10) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
