@@ -1,0 +1,11 @@
+Model Information:
+* title:	SCP-106
+* source:	https://sketchfab.com/3d-models/scp-106-21296abb0a224acea2bce6cdd6005289
+* author:	ThatJamGuy (https://sketchfab.com/EComputer)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "SCP-106" (https://sketchfab.com/3d-models/scp-106-21296abb0a224acea2bce6cdd6005289) by ThatJamGuy (https://sketchfab.com/EComputer) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
